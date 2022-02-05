@@ -1,0 +1,53 @@
+canvas {
+    background-image:url(imgs/teste.jpg);
+    position: absolute;
+    display: block;
+    margin: 0;
+	padding: 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+body {
+    margin: 0px;
+    padding: 0px;
+    background-image: linear-gradient(180deg, #2b9348, #55a630,#80b918,#aacc00);
+    margin: 0;
+    background-repeat: no-repeat;
+
+}
+#div-label{
+    border-bottom: 5px solid white;
+    text-align: center;
+    font-family: 'Cormorant Unicase', serif;
+    
+}
+#label-cor{
+    font-size: 2em;
+    color: rgb(255, 255, 255);
+}
+#colores{
+    height: 30px;
+    width: 60px; 
+   border-radius: 5px;
+}
+#botao{
+    background: #cdf100;
+    height: 30px;
+    width: 60px;  
+    font-size: 1em;
+    margin-bottom: 4px;
+    border-radius: 5px;
+}
+#botao:hover{
+    background: #f11000;
+}
+#div-canvas{
+    margin-top: 1px;
+}
+
+@font-face {
+    font-family: font;
+    src: url('font.ttf');
+}

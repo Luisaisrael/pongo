@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>Jogo Bolado</title>
+    <link rel="stylesheet" href="index.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@300&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <main>
+        <header>
+            <h1>Creditos</h1>
+        </header>
+        <section>
+            
+            
+        <img class="imagens" src="imgs/foto-Bianca.jpeg"height="200">
+        <h2 class="nomes">Bianca Kamyle</h2>
+               
+              
+        <img class="imagens" src="imgs/foto-lucas.jpeg"height="200">
+        <h2 class="nomes">Lucas Cesar</h2>
+               
+        <img class="imagens" src="imgs/foto-ludmila.jpeg"height="200">
+        <h2 class="nomes">Ludmila Santos</h2>
+               
+               
+        <img class="imagens" src="imgs/foto-luisa.jpeg"height="200">
+        <h2 class="nomes">Luísa Israel</h2>
+               
+               
+        <img class="imagens" src="imgs/foto-Otavio.jpeg" height="200">
+        <h2 class="nomes">Otavio Augusto</h2>
+            
+
+        </section>
+    </main>
+    </body>
+</html>
